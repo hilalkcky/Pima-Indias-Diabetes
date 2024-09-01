@@ -2,15 +2,12 @@ Bu proje, Pima Hintli Diyabet veri seti kullanılarak yapay zeka (AI) ve makine 
 
 # Özellikler:
 
-Veri Seti: Pima Hintli Diyabet veri seti kullanılarak diyabetli ve olmayan bireylerin sağlık bilgileri incelenir.
-Veri Ön İşleme: Veriler eksik değerler, aykırı değerler gibi sorunlar açısından kontrol edilir ve gerekli durumlarda temizlenir.
-Özellik Mühendisliği: Sağlık verileri, makine öğrenmesi modellerinin anlayabileceği sayısal özelliklere dönüştürülür.
-Model Eğitimi: Farklı makine öğrenmesi algoritmaları kullanılır:
+ Pima Hintli Diyabet veri seti kullanılarak diyabetli ve olmayan bireylerin sağlık bilgileri incelenir. Veriler eksik değerler, aykırı değerler gibi sorunlar açısından kontrol edilir ve gerekli durumlarda temizlenir. Sağlık verileri, makine öğrenmesi modellerinin anlayabileceği sayısal özelliklere dönüştürülür. Farklı makine öğrenmesi algoritmaları kullanılır:
 Rastgele Orman Sınıflandırıcı (Random Forest Classifier)
 Destek Vektör Makinesi (Support Vector Machine - SVC)
 Çok Değişkenli Naif Bayes (Multinomial Naive Bayes - MNB)
 Lojistik Regresyon (Logistic Regression - LR)
-Model Değerlendirmesi: Her model için test verisi üzerinde doğruluk skoru (accuracy score) hesaplanarak en iyi tahmin performansı gösteren model seçilir.
+Her model için test verisi üzerinde doğruluk skoru (accuracy score) hesaplanarak en iyi tahmin performansı gösteren model seçilir.
 
 # Projenin Faydaları:
 
